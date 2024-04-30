@@ -4,7 +4,8 @@ Pod::Spec.new do |s|
   s.summary          = "AppsFlyer Integration for Segment's analytics-swift library."
 
   s.description      = <<-DESC 
-  AppsFlyer is the market leader in mobile advertising attribution & analytics, helping marketers to pinpoint their targeting, optimize their ad spend and boost their ROI.
+                        AppsFlyer is the market leader in mobile advertising attribution & analytics, 
+                        helping marketers to pinpoint their targeting, optimize their ad spend and boost their ROI.
                        DESC
 
   s.homepage         = "http://segment.com/"
